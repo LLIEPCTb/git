@@ -1,5 +1,13 @@
-em {background-color: green; color: white;}
-p:first-letter {color: red; font-size: 30px;}
+/* add a comment */
+p{background-color: aqua}
+em{
+	background-color: green; 
+	color: white;
+	}
+p:first-letter 
+	{color: red; 
+	font-size: 30px;
+	}
 #allotment h2 {color: #ff8500;}
 #allotment ol.fruits-list {color: gray;}
 #allotment ol.vegetables-list {color: red;}
